@@ -1,4 +1,4 @@
-resource_group: "DevOps-ResourceGroup"
+resource_group: "qahi"
 vm_size : "Standard_B1s"
 instance_name : "hiansibleprovisioning"
 location : "koreacentral"
